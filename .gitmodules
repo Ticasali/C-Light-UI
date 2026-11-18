@@ -1,0 +1,9 @@
+[submodule "libs/core"]
+	path = libs/core
+	url = https://github.com/Ticasali/C-Light-Core.git
+[submodule "libs/resources"]
+	path = libs/resources
+	url = https://github.com/Ticasali/C-Light-Resources.git
+[submodule "libs/system"]
+	path = libs/system
+	url = https://github.com/Ticasali/C-Light-System.git
